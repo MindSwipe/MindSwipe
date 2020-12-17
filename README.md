@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello There <img src="./general_kenobi.png" alt="General Kenobi" width="15" />
+
+- 🙋‍♂️ I'm a C#/ .Net software apprentice
+- 💬 Ask me about Rust and ECS
+- ⚡ I know how to ask and answer on Stack Overflow
+
+<a href="https://stackoverflow.com/users/9363973/mindswipe"><img src="https://stackoverflow.com/users/flair/9363973.png" width="208" height="58" alt="profile for MindSwipe at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for MindSwipe at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 <!--
 **MindSwipe/MindSwipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
