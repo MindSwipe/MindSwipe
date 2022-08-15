@@ -1,8 +1,10 @@
-### Hello There <img src="./general_kenobi.png" alt="General Kenobi" width="15" />
+### Hey
 
-- 🙋‍♂️ I'm a C#/ .Net software apprentice
-- 💬 Ask me about Rust and ECS
-- ⚡ I know how to ask and answer on Stack Overflow
+I'm MindSwipe and I like to code and learn while doing it.
+
+I've been doing C# and .NET programming professionally for just over four years, three of which were during my education.  
+In my free time I like to experiment closer to the hardware, namely doing Graphics Programming and using Data Oriented Design principles in Rust for high performance applications.
+
 
 <a href="https://stackoverflow.com/users/9363973/mindswipe"><img src="https://stackoverflow.com/users/flair/9363973.png" width="208" height="58" alt="profile for MindSwipe at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for MindSwipe at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
